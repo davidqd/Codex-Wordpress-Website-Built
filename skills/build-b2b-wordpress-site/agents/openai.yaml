@@ -1,0 +1,4 @@
+interface:
+  display_name: "B2B WordPress 建站"
+  short_description: "MCP 优先调用主题原生组件搭建并验收外贸 B2B WordPress 网站"
+  default_prompt: "使用 $build-b2b-wordpress-site 规划并执行一个后台可视化维护的专业外贸 B2B WordPress 独立站。首次采集主题 Pattern 前先验证 MCP 能否读取名称、slug 和原始 Gutenberg 内容；验证失败后才使用浏览器兜底。后续页面优先通过 MCP 复用主题 Patterns。"
